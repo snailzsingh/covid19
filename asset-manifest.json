@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/%7Brepo-name%7D/static/css/main.04093743.chunk.css",
-    "main.js": "/%7Brepo-name%7D/static/js/main.8d1fee88.chunk.js",
-    "main.js.map": "/%7Brepo-name%7D/static/js/main.8d1fee88.chunk.js.map",
-    "runtime-main.js": "/%7Brepo-name%7D/static/js/runtime-main.d398e510.js",
-    "runtime-main.js.map": "/%7Brepo-name%7D/static/js/runtime-main.d398e510.js.map",
-    "static/js/2.1ed2e62d.chunk.js": "/%7Brepo-name%7D/static/js/2.1ed2e62d.chunk.js",
-    "static/js/2.1ed2e62d.chunk.js.map": "/%7Brepo-name%7D/static/js/2.1ed2e62d.chunk.js.map",
-    "index.html": "/%7Brepo-name%7D/index.html",
-    "precache-manifest.39ae82b4838e7f34e0c16a782c445619.js": "/%7Brepo-name%7D/precache-manifest.39ae82b4838e7f34e0c16a782c445619.js",
-    "service-worker.js": "/%7Brepo-name%7D/service-worker.js",
-    "static/css/main.04093743.chunk.css.map": "/%7Brepo-name%7D/static/css/main.04093743.chunk.css.map",
-    "static/js/2.1ed2e62d.chunk.js.LICENSE.txt": "/%7Brepo-name%7D/static/js/2.1ed2e62d.chunk.js.LICENSE.txt",
-    "static/media/image.png": "/%7Brepo-name%7D/static/media/image.d7265326.png"
+    "main.css": "/covid19/static/css/main.04093743.chunk.css",
+    "main.js": "/covid19/static/js/main.8d1fee88.chunk.js",
+    "main.js.map": "/covid19/static/js/main.8d1fee88.chunk.js.map",
+    "runtime-main.js": "/covid19/static/js/runtime-main.2993b3e3.js",
+    "runtime-main.js.map": "/covid19/static/js/runtime-main.2993b3e3.js.map",
+    "static/js/2.bdceaf34.chunk.js": "/covid19/static/js/2.bdceaf34.chunk.js",
+    "static/js/2.bdceaf34.chunk.js.map": "/covid19/static/js/2.bdceaf34.chunk.js.map",
+    "index.html": "/covid19/index.html",
+    "precache-manifest.a64a9ccbf2c753d4ba108b67e1e50468.js": "/covid19/precache-manifest.a64a9ccbf2c753d4ba108b67e1e50468.js",
+    "service-worker.js": "/covid19/service-worker.js",
+    "static/css/main.04093743.chunk.css.map": "/covid19/static/css/main.04093743.chunk.css.map",
+    "static/js/2.bdceaf34.chunk.js.LICENSE.txt": "/covid19/static/js/2.bdceaf34.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/covid19/static/media/image.d7265326.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d398e510.js",
-    "static/js/2.1ed2e62d.chunk.js",
+    "static/js/runtime-main.2993b3e3.js",
+    "static/js/2.bdceaf34.chunk.js",
     "static/css/main.04093743.chunk.css",
     "static/js/main.8d1fee88.chunk.js"
   ]
